@@ -1,0 +1,9 @@
+Flask	==1.1.2	
+MarkupSafe==	1.1.1
+Werkzeug==	1.0.1
+click==	7.1.2
+itsdangerous	==1.1.0
+numpy	==1.19.4
+opencv-python==	4.4.0.46
+pip	==20.3.3
+setuptools==	51.0.0
